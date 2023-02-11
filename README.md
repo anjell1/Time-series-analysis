@@ -1,2 +1,2 @@
 # Time-series-analysis
-python time series analysis
+R time series analysis
